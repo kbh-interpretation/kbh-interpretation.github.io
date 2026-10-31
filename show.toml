@@ -1,0 +1,24 @@
+# The show's metadata, read by build_feed.py.
+title = "Копенгагенская интерпретация"
+description = "Подкаст о Дании и мире"
+language = "ru"
+author = "Christian, Frederik og S."
+copyright = "Christian, Frederik og S."
+owner_name = "Christian, Frederik og S."
+owner_email = "smilla.og.podcast@gmail.com"
+site = "https://kbh-interpretation.github.io/"
+feed = "https://kbh-interpretation.github.io/feed.xml"
+image = "art/show.jpg"
+category = "Arts"
+subcategory = "Books"
+explicit = false
+type = "episodic"
+# podcast:guid: UUIDv5 of the show's first feed URL without the scheme, anchor.fm/s/fd5e7aec/podcast/rss,
+# in the "podcast" namespace ead4c236-bf58-58c6-a2c6-a6b28d128cb6 (Podcasting 2.0)
+guid = "30a92245-fc65-5ce2-833e-d54393d76da5"
+# podcast:locked: other hosts may not import the feed without the owner's email check
+locked = true
+
+[links]
+"Apple Podcasts" = "https://podcasts.apple.com/podcast/id1778889640"
+"Spotify" = "https://open.spotify.com/show/619ENCZWhNVTYn8kZ219Jh"
