@@ -6,7 +6,7 @@
 <description><![CDATA[Подкаст о Дании и мире]]></description>
 <language>ru</language>
 <copyright>Christian, Frederik og S.</copyright>
-<lastBuildDate>Sat, 31 Oct 2026 16:36:56 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 10:11:24 GMT</lastBuildDate>
 <generator>build_feed.py</generator>
 <atom:link href="https://kbh-interpretation.github.io/feed.xml" rel="self" type="application/rss+xml"/>
 <itunes:new-feed-url>https://kbh-interpretation.github.io/feed.xml</itunes:new-feed-url>
@@ -57,8 +57,8 @@
 <link>https://kbh-interpretation.github.io/#ep08</link>
 <guid isPermaLink="false">31cbe4e9-3419-4e9a-9630-2c13b4c07f23</guid>
 <pubDate>Sun, 06 Apr 2025 23:18:04 GMT</pubDate>
-<enclosure url="https://kbh-interpretation.github.io/audio-1/ki-ep08.m4a" length="65532199" type="audio/x-m4a"/>
-<itunes:duration>01:07:31</itunes:duration>
+<enclosure url="https://kbh-interpretation.github.io/audio-1/ki-ep08.m4a" length="73749677" type="audio/x-m4a"/>
+<itunes:duration>01:16:00</itunes:duration>
 <itunes:image href="https://kbh-interpretation.github.io/art/ki-ep08.jpg"/>
 <itunes:explicit>true</itunes:explicit>
 <itunes:episode>8</itunes:episode>
@@ -132,8 +132,8 @@
 <link>https://kbh-interpretation.github.io/#ep03</link>
 <guid isPermaLink="false">f5aaffb2-b53a-4347-ad27-3c29a659b3ba</guid>
 <pubDate>Sun, 06 Apr 2025 23:17:17 GMT</pubDate>
-<enclosure url="https://kbh-interpretation.github.io/audio-1/ki-ep03.m4a" length="59100268" type="audio/x-m4a"/>
-<itunes:duration>01:00:54</itunes:duration>
+<enclosure url="https://kbh-interpretation.github.io/audio-1/ki-ep03.m4a" length="61577467" type="audio/x-m4a"/>
+<itunes:duration>01:03:27</itunes:duration>
 <itunes:image href="https://kbh-interpretation.github.io/art/ki-ep03.jpg"/>
 <itunes:explicit>true</itunes:explicit>
 <itunes:episode>3</itunes:episode>

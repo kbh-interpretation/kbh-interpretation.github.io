@@ -45,12 +45,12 @@ description = '''<p>When Harry met Sally..</p><p><br /></p>
 '''
 published = "Sun, 06 Apr 2025 23:17:17 GMT"
 guid = "f5aaffb2-b53a-4347-ad27-3c29a659b3ba"
-duration = "01:00:54"
+duration = "01:03:27"
 explicit = true
 type = "full"
 image = "art/ki-ep03.jpg"
 audio = "audio-1/ki-ep03.m4a"
-length = 59100268
+length = 61577467
 mime = "audio/x-m4a"
 
 [[episode]]
@@ -130,12 +130,12 @@ description = '''<p>The box</p>
 '''
 published = "Sun, 06 Apr 2025 23:18:04 GMT"
 guid = "31cbe4e9-3419-4e9a-9630-2c13b4c07f23"
-duration = "01:07:31"
+duration = "01:16:00"
 explicit = true
 type = "full"
 image = "art/ki-ep08.jpg"
 audio = "audio-1/ki-ep08.m4a"
-length = 65532199
+length = 73749677
 mime = "audio/x-m4a"
 
 [[episode]]

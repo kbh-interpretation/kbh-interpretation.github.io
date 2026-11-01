@@ -26,8 +26,11 @@
 
 Never change an episode's `guid`, file name or date once it is out: podcast apps identify episodes by the guid.
 
-Episodes #1–#9.2 were moved here from Spotify for Creators on 2026-10-31.
+Episodes #1–#9.2 were moved here from Spotify for Creators on 2026-10-31 and 2026-11-01.
 - GUIDs, dates and descriptions are unchanged.
 - The audio of #4 (MP3 320 kb/s, 180 MB) and #7 (AAC 128 kb/s, 111 MB) was re-encoded to AAC at 128 and 112 kb/s to
-  fit the 100 MiB limit; the other audio files are unchanged.
+  fit the 100 MiB limit.
+- The audio of #3 and #8 is encoded at 128 kb/s from the show's own mixes of their first release, which are longer than
+  the later versions on Spotify: 1:03:27 instead of 1:00:54 and 1:16:00 instead of 1:07:31.
+- The other audio files are unchanged.
 - The art of #5 was converted from grayscale to RGB (Apple's artwork rule); the picture is the same.
